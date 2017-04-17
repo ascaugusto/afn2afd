@@ -1,3 +1,4 @@
+import arquivo
 
 nom_arquivos = input("Digite o nome do arquivo de entrada e em seguida o de saida:\n")
 
@@ -18,7 +19,6 @@ arq1_conteudo = arq_entrada.read()
 
 print(arq1_conteudo) 
 
+
+
 input("press")
-
-
-

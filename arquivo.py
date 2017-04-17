@@ -1,0 +1,1 @@
+def leArquivo(arquivo):
